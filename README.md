@@ -1,4 +1,4 @@
-# README for 4-Way Traffic Light Controller
+#4-Way Traffic Light Controller
 
 ## About the Project
 This project involves designing and implementing a 4-way traffic light controller with three lights (red, yellow, and green) for each direction. The traffic light system is designed using Verilog and simulated using Vivado. The synthesis is performed using Libero v9.1, including Synplify for synthesis and ModelSim for simulation. The hardware implementation is done on an Actel ProASIC3E FPGA with a custom PCB featuring 12 LEDs representing the traffic lights for four directions.
