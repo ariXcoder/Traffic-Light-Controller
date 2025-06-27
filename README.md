@@ -59,9 +59,7 @@ The Verilog code consists of 12 separate light outputs (3 for each direction: EA
 1. **Reset**: To initialize the system, set `p_reset` to 1.
 2. **Mode Selection**: Set `mode_select` to 0 for normal operation or 1 for yellow blinking mode.
 3. **Clock**: Provide a 40MHz clock signal to the `clk` input.
-
----
-![FPGA IMPLEMENTATION](https://drive.google.com/file/d/1Yjt9XYuChTWxGTmxkCaUSf5qdlRXEGUA/view?usp=sharing " ")
+ 
 
 ## Video Link
 - Link : https://drive.google.com/file/d/12gFK8LWi4xLRS8w0YIiXtJnnLKBB2iQB/view?usp=sharing
